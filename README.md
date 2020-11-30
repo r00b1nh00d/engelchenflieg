@@ -1,35 +1,17 @@
 # Einen Engel fliegen lassen
 ## ~avatar avatar @unplugged
-gedulde dich noch ein wenig bis es soweit ist :-)
+![FlatterEngel(]https://github.com/r00b1nh00d/engelchenflieg/blob/master/FlaterEngel%20(1).gif?raw=true) <br>
+Du brauchst dringend noch ein Geschenk für deine Eltern oder Größeltern? <br>
+Über eine selbstgebastelte Weihnachtsdeko freuen sie sich bestimm.<br>
+Eine ganz besondere Bastelei wäre so ein flatternder Engel.
 
 
-> Diese Seite bei [https://r00b1nh00d.github.io/engelchenflieg/](https://r00b1nh00d.github.io/engelchenflieg/) öffnen
+## ~ @unplugged
+Zum ausschneiden des Engels habe ich dir hier eine Vorlage hochgeladen. <br>
+![Engel](https://github.com/r00b1nh00d/engelchenflieg/blob/master/EngelSkizze.jpg?raw=true) <br>
 
-## Als Erweiterung verwenden
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+Für die Flügel findest du hier ebenfalls eine Vorlage. <br>
+![Fluegel](https://github.com/r00b1nh00d/engelchenflieg/blob/master/FluegelSkizze.jpg?raw=true) <br>
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/engelchenflieg** suchen und importieren
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/engelchenflieg/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/engelchenflieg** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/engelchenflieg/raw/master/.github/makecode/blocks.png)
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
