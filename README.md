@@ -34,10 +34,7 @@ input.onButtonPressed(Button.B, function () {
 
 ## Schritt 2
 Um den Engel später automatisch zum flattern zu bringen kannst du eine Schleife nutzen um den Servo langsam nach und nach gewisse Winkel anfahren zu lassen oder eben einfach Abwechselnd die winkel 0° bzw. 90° anfahren lassen.
-
-
-## ~ unplugged 
-
+```blocks 
 basic.forever(function () {
     for (let Index = 0; Index <= 90; Index++) {
         pins.servoWritePin(AnalogPin.P1, Index)
@@ -48,3 +45,10 @@ basic.forever(function () {
         basic.pause(10)
     }
 })
+```
+
+## ~ unplugged 
+Du möchtest noch wissen wie du jetzt Servo, Engel und Calliope miteinander verbindest?
+
+
+
