@@ -49,7 +49,7 @@ basic.forever(function () {
 
 ## ~ unplugged 
 ![EngelAnschluss](https://github.com/r00b1nh00d/engelchenflieg/blob/master/EngelZoom.gif?raw=true) <br>
-**Wie du siehst ist der Engel von hinten nochmal mit einem schwarzen Tonpapier verstärkt**
+**Wie du siehst ist der Engel von hinten nochmal mit einem schwarzen Tonpapier verstärkt** <br>
 Du möchtest noch mehr dazu wissen wie du jetzt Servo, Engel und Calliope miteinander verbindest? <br>
 Zu Halloween haben wir schonmal eine Fledermaus gebaut, das Video findest du hier: [Fledermaus-Video](https://www.youtube.com/watch?v=_YB8MEzmV9U&t=11s)
 
