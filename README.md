@@ -37,3 +37,14 @@ Um den Engel später automatisch zum flattern zu bringen kannst du eine Schleife
 
 
 ## ~ unplugged 
+
+basic.forever(function () {
+    for (let Index = 0; Index <= 90; Index++) {
+        pins.servoWritePin(AnalogPin.P1, Index)
+        basic.pause(10)
+    }
+    for (let Index = 0; Index <= 90; Index++) {
+        pins.servoWritePin(AnalogPin.P1, 90 - Index)
+        basic.pause(10)
+    }
+})
