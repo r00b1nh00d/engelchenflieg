@@ -1,6 +1,6 @@
 # Einen Engel fliegen lassen
 ## ~avatar avatar @unplugged
-![FlatterEngel](https://github.com/r00b1nh00d/engelchenflieg/blob/master/FlaterEngel%20(1).gif?raw=true) <br>
+![FlatterEngel](https://github.com/r00b1nh00d/engelchenflieg/blob/master/FlatterEngel.gif.gif?raw=true) <br>
 Du brauchst dringend noch ein Geschenk für deine Eltern oder Großeltern? <br>
 Über eine selbstgebastelte Weihnachtsdeko freuen sie sich bestimmt.<br>
 Eine ganz besondere Bastelei ist auf jeden Fall so ein flatternder Engel.
